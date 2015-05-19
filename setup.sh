@@ -39,6 +39,6 @@ echo ""
 echo "4. Add the directory path into web server and restart it."
 
 echo ""
-echo "5. Add debian packages into $REPO_PATH/repo/pool/ and run:"
+echo "5. Add debian packages under $REPO_PATH/repo/pool/main and run:"
 echo "       $REPO_PATH/bin/update.sh"
 
